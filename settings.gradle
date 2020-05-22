@@ -1,0 +1,2 @@
+rootProject.name='FakeChef'
+include ':app'
